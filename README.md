@@ -14,10 +14,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://c.tenor.com/-izxlsWF6H0AAAAd/tech-support-whatsapp-dev-team.gif"  />
-</div>
-
 ###
 
 <h3 align="left">Conhecimentos...</h3>
