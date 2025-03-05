@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> - 🎯 Entusiasta neste maravilhoso mundo do desenvolvimento web. <br> - 👨🏽‍💻  Front end developer.<br> - 👨🏽‍🎓 Cursando ADS. <br> - 🌱 No momento estou estudando: VueJS, PYTHON, JS</p>
+<p align="left"> - 🎯 Entusiasta neste maravilhoso mundo do desenvolvimento web. <br> - 👨🏽‍💻  Front end developer.<br> - 👨🏽‍🎓 Analista de Sistemas <br> - 🌱 No momento estou estudando: PHP, PYTHON</p>
 
 ###
 
