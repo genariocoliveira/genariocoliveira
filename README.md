@@ -12,6 +12,25 @@
 
 <p align="left"> - 🎯 Entusiasta neste maravilhoso mundo do desenvolvimento web. <br> - 👨🏽‍💻  Front end developer.<br> - 👨🏽‍🎓 Analista de Sistemas <br> - 🌱 No momento estou estudando: PHP, PYTHON</p>
 
+🌟 **Desenvolvedor Front-End** | Criando experiências digitais envolventes
+
+Sou um desenvolvedor front-end apaixonado, especializado em transformar ideias em interfaces interativas e responsivas. Com um sólido conhecimento em **HTML**, **CSS**, **JavaScript**, **React**, **Vue.js**, **Bootstrap** e **Tailwind**, trago à vida designs modernos e funcionais.
+
+Além disso, tenho experiência em **PHP** e **Python**, permitindo-me integrar soluções robustas no back-end e otimizar o desempenho das aplicações. Sou graduado em **Analista de Sistemas** e estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades para entregar produtos de alta qualidade.
+
+💻 **Habilidades:**
+- HTML & CSS
+- JavaScript
+- React
+- Vue.js
+- Bootstrap
+- Tailwind
+- PHP
+- Python
+
+🚀 **Vamos construir algo incrível juntos!**
+
+
 ###
 
 ###
